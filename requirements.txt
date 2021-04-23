@@ -1,0 +1,5 @@
+Django==3.1
+Pillow==8.1.1
+djangorestframework==3.11
+drf-yasg
+psycopg2-binary
